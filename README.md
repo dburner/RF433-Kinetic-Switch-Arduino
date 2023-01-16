@@ -1,7 +1,7 @@
 # RF433-Kinetic-Switch-Arduino
 
 # Description
-Arduino code to emulate a Kinetic Switch press using RF433 and an Arduino Nano.
+Arduino code to emulate a [Kinetic Switch](https://www.aliexpress.com/item/1005004511047386.html?spm=a2g0o.order_list.order_list_main.11.68011802NcdOYJ) press using RF433 and an Arduino Nano.
 
 Later plan to make it for attiny85 powered by coin batter and interrupts for low power consumption using deep sleep.
 
